@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "title": "My first blog",
+      "body": "This is my first blog, in here i have explained about nutrition benefit on cranberry. The first Cranberry was born in Chile, South America nearly 2000 years ago. Cranberry is the result of crosspolination between grapes and blueberry, It was first experimented by chile people during a monsoon time. People at there found many many fruit in the Volcano forest where the Atlas mountain ",
+      "author": "mario",
+      "id": 1
+    },
+    {
+      "title": "Hotels in Australia",
+      "body": "Australia is a unique and diverse country in every way - in culture, population, climate, geography, and history.",
+      "author": "Kenny",
+      "id": 2
+    },
+    {
+      "title": "Welcome to my Antartica home",
+      "body": "There are no regular houses in Antarctica, but there are manned research stations that have comfortable living quarters with bedrooms, kitchen and bathroom facilities, living areas, offices, generator rooms and communication rooms. Expeditioners and scientists also stay in different forms of accommodations depending on their field activity.",
+      "author": "Aliche Chan",
+      "id": 3
+    },
+    {
+      "title": "kjk",
+      "body": "kjjjk",
+      "author": "mario",
+      "id": 4
+    }
+  ]
+}
